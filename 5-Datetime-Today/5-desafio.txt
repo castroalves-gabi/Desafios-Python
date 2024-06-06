@@ -1,0 +1,6 @@
+# Crie um programa que exiba a data no formato dia, mês, ano
+
+# TO-DO: Importar datetime
+# Obtém a data e hora atual
+# Formata a data para exibir apenas a parte da data
+# Exibe a data atual

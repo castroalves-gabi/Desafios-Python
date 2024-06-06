@@ -1,0 +1,7 @@
+# Crie um programa de manipulação de data
+
+# Pede ao usuário que insira uma data no formato dd-mm-yyyy.
+# Tenta converter a string de data em um objeto datetime. Se a conversão falhar, informa o usuário e pede a data novamente.
+# Pede ao usuário que insira um número de dias a ser acrescentado à data. Se a entrada não for um número válido, informa o usuário e pede o número novamente.
+# Calcula a nova data somando o número de dias à data inicial.
+# Exibe a data final no formato dd-mm-yyyy. 

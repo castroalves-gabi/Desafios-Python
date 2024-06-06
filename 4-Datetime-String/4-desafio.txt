@@ -1,0 +1,6 @@
+# Crie um programa que pegue uma string e converta para datetime
+
+# TO-DO: Importar datetime
+# Definir variável com string da data
+# Formata
+# Exibe
