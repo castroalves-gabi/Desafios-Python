@@ -5,4 +5,5 @@ Pode usar o próprio arquivo 10-desafio.txt para isso.
 # TO-DO:
 # variável que recebe open(arquivo, método, utf)
 # for do arquivo com print do conteúdo
+    # dica: for linha in arquivo.readlines():
 # fechar arquivo

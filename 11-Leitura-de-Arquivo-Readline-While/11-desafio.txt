@@ -1,0 +1,14 @@
+Outro modo de mostrar o arquivo na íntegra sem linhas vazias ao final é usando while e readline.
+
+A ideia é pegar cada linha e atribuir pra variável linha.
+Então, usar len pra contar quantos caracteres.
+Se len retornar zero, significa que é uma linha vazia.
+Então, o while termina porque ele só funciona enquanto a instrução é verdadeira.
+
+Pode usar o próprio arquivo 10-desafio.txt para isso.
+
+# TO-DO:
+# variável que recebe open(arquivo, método, utf)
+# while do arquivo com print do conteúdo
+    # dica: while len(linha := arquivo.readline())
+# fechar arquivo
