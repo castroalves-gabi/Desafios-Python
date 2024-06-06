@@ -1,0 +1,9 @@
+Para evitar linhas vazias, use readline. 
+Perceba como ele não traz linhas vazias.
+Entretanto retorna como um array com elementos separados por vírgula, o que dificulta a leitura humana.
+
+Pode usar o próprio arquivo 9-desafio.txt para isso.
+# TO-DO:
+# variável que recebe open(arquivo, método, utf)
+# print do arquivo no modo readlines
+# fechar arquivo

@@ -1,0 +1,8 @@
+Use for e readlines para fazer a leitura do arquivo.
+Perceba que o arquivo é mostrado na íntegra, sem o inconveniente de carregar linhas vazias ao final.
+
+Pode usar o próprio arquivo 10-desafio.txt para isso.
+# TO-DO:
+# variável que recebe open(arquivo, método, utf)
+# for do arquivo com print do conteúdo
+# fechar arquivo
