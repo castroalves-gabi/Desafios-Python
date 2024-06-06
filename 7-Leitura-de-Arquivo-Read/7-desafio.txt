@@ -1,0 +1,8 @@
+Faça um programa que leia arquivo txt usando o método read('r).
+
+Pode usar o próprio arquivo 7-desafio.txt para isso.
+
+# TO-DO:
+# variável que recebe open(arquivo, método, utf)
+# print do arquivo no modo leitura
+# fechar arquivo
